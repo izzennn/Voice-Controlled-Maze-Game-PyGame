@@ -1,7 +1,7 @@
 # Voice-Controlled-Maze-Game-PyGame
 **Voice-Controlled Maze Game** is a simple yet innovative game implemented in Python using the Pygame, PyAudio, and threading libraries. Players navigate a ball through an obstacle course using voice commands like "go right," "go left," "up," and "down."
 
-![Voice-Controlled Maze Game Screenshot](voice_maze_sc.png)
+![Voice-Controlled Maze Game Screenshot](game.png)
 
 ## Gameplay
 
